@@ -1,10 +1,8 @@
-﻿# shopledger
+# ShopLedger
 
-ShopLedger â€“ Business Management Platform
+<img src="./assets/header.svg" width="100%" alt="ShopLedger" />
 
-## Stack
-
-react Â· vite Â· typescript Â· firebase Â· node
+Retail ledger for transaction tracking and inventory oversight.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· firebase Â· node
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
